@@ -14,7 +14,7 @@ iOS, Rails エンジニアです。
 
 ## 最近作っているものとか
 
-- [NuDrop](https://github.com/NuDrop)
+- [NuDrop](https://github.com/satococoa/NuDrop)
 
 
 ## 作ったものとか
