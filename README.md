@@ -16,6 +16,12 @@
 - 簡単な自己紹介
 - 今アクティブに取り組んでいるプロダクト
 
+```bash
+$ git clone git@github.com:yurufuwa/members.git
+$ cd members
+$ cp _template.md yourname.md
+```
+
 
 ## idobata (yurufuwa/lobby) Guest URL
 
