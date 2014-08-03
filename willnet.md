@@ -1,5 +1,7 @@
 # @willnet
 
+Shinichi Maeshima / 前島 真一
+
 ## 自己紹介
 
 流しのRailsエンジニアをしています。[デザインビギナーズ](http://debeg.doorkeeper.jp/)と[ginza.rb](http://ginzarb.github.io/)の主催者。
