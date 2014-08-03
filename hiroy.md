@@ -10,6 +10,7 @@ Hiroyuki Yamaoka / 山岡広幸
 - http://cotori.cc/
 - https://github.com/hiroy
 - https://twitter.com/hiro_y
+- https://www.linkedin.com/in/hiroy
 - [qumu inc.](http://qumu.co) 代表社員
 
 
