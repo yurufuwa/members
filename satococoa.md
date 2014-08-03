@@ -6,7 +6,7 @@ Satoshi Ebisawa (@satococoa)
 
 iOS, Rails エンジニアです。
 
-- https://satococoa.github.io/
+- http://satococoa.github.io/
 - https://github.com/satococoa
 - https://twitter.com/satococoa
 - [IGNIS LTD.](http://1923.co.jp) 所属
