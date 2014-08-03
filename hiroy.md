@@ -11,7 +11,7 @@ Hiroyuki Yamaoka / 山岡広幸
 - https://github.com/hiroy
 - https://twitter.com/hiro_y
 - https://www.linkedin.com/in/hiroy
-- [qumu inc.](http://qumu.co) 代表社員
+- [合同会社qumu](http://qumu.co) 代表社員
 
 
 ## 最近作っているものとか
