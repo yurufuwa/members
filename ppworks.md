@@ -1,6 +1,10 @@
 # @ppworks
 
 Koshikawa Naoto
+最近は、Ruby On RailsとObjective-C
+[元々ホームページおじさんだった](http://ppworks.hatenablog.jp/entry/2013/05/11/003911)のでフロントも大好き。
+Flashオンラインゲーム面倒見てたのでインフラもフロントもそれなりにやってた。
+
 
 * [twitter@ppworks](https://twitter.com/ppworks)
 * [github@ppworks](https://github.com/ppworks)
