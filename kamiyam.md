@@ -37,5 +37,5 @@ AWS/Heroku あたり使うのが楽
     - [jdtMdnStrongEnter](http://jdtplugins.googlecode.com/svn/trunk/jdtmdnstrongenter/index.html)
 - Facebookアプリ
     - [schedulenote](https://apps.facebook.com/schedulenote/)
-    - [TinkleTweet](https://apps.facebook.com/schedulenote/)
+    - [TinkleTweet](https://apps.facebook.com/tinkle-tweets/)
 
