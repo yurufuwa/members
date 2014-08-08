@@ -4,7 +4,9 @@
 Tomohiro Hashidate (@joker1007)
 
 GitHub: https://github.com/joker1007
+
 ブログ: http://d.hatena.ne.jp/joker1007/
+
 Twitter: https://twitter.com/joker1007
 
 ## 最近作っているものとか
