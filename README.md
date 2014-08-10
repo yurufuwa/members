@@ -22,6 +22,9 @@ $ cd members
 $ cp _template.md yourname.md
 ```
 
+- **PR が取り込まれた後の更新は、自由に master に push していただいて構いません。**
+- アクティブに取り組んでいるプロダクトや作ったものについてはぜひ継続して更新していってください。
+
 
 ## idobata (yurufuwa/lobby) Guest URL
 
