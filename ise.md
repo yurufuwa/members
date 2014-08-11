@@ -15,5 +15,5 @@ saturatorというアニメニュースアプリを作っていましたが、
 ## 作ったものとか
 
 - [saturator](http://saturator.info/)
-好きなアニメのニュースだけが読めるiPhoneアプリ
-https://itunes.apple.com/jp/app/saturator-animenyusuwomatome/id654456984?l=ja&ls=1&mt=8
+    - 好きなアニメのニュースだけが読めるiPhoneアプリ
+    - [itunes](https://itunes.apple.com/jp/app/saturator-animenyusuwomatome/id654456984?l=ja&ls=1&mt=8)
