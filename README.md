@@ -29,3 +29,7 @@ $ cp _template.md yourname.md
 ## idobata (yurufuwa/lobby) Guest URL
 
 https://idobata.io/organizations/yurufuwa/rooms/lobby/join_request/4a6f1e79-58bf-4d2c-bcad-3a8229d4786a
+
+## TestFlight Team
+
+http://tflig.ht/1poXoof
