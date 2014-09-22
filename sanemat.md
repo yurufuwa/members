@@ -8,5 +8,5 @@ Kenichi Murahashi, Sanemat, サネマツ
 
 - [Bundle Update as a Service - Tachikoma.io](http://tachikoma.io/)
 - [Yet Another Rubygems.org - RubyHandCooler](http://handcooler.org/)
-- [Do Not Merge WIP for GitHub - Chrome Extension](https://chrome.google.com/webstore/detail/do-not-merge-wip-for-gith/nimelepbpejjlbmoobocpfnjhihnpked/related)
+- [Do Not Merge WIP for GitHub - Chrome Extension](https://chrome.google.com/webstore/detail/do-not-merge-wip-for-gith/nimelepbpejjlbmoobocpfnjhihnpked/)
 - [brew install ricty - homebrew formula](https://github.com/sanemat/homebrew-font)
