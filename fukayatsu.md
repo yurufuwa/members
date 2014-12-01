@@ -11,21 +11,19 @@ Ruby/Rails, Chrome Extension/App, Android あたりでいろいろ作ります�
 - http://blog.fukayatsu.com/
 - https://twitter.com/fukayatsu
 - https://github.com/fukayatsu/about
-- [Piece of Cake, Inc.](http://www.pieceofcake.co.jp/) 所属
+- 所属
+    - [Kaizen Platform, Inc.](https://kaizenplatform.com/)
+    - esa LLC
 
 #### 主な開発環境
 
 - MacBook Pro Retina 15″
-- Sublime Text 3
+- [Atom](https://atom.io/)
 
 ## 最近やってること
 
 - https://esa.io
-- イラレでベジェ曲線の練習とか
 
-#### 近いうちにやる
-
-- RubyMotion
 
 ## 作ったものとか
 
