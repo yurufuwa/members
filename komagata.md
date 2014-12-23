@@ -1,27 +1,37 @@
-# @machida
+# @komagata
 
 ## 自己紹介
 
-Teppei Machida (@machida)
+Masaki Komagata
 
-デザイナ。サービスを作るのがメインの仕事です。
-Rails製のアプリにデザインを入れることが受託仕事では多いです。
+railsプログラマーです。
 
-- https://github.com/machida
-- https://twitter.com/machida
+- http://komagata.org
+- https://github.com/komagata
+- https://twitter.com/komagata
 - [合同会社フィヨルド](http://fjord.jp) 代表社員
 
+## 最近作っているもの
 
-## 最近作っているものとか
+- [怖話](http://kowabana.jp)
+  - 怖い話がサウンドノベル風に読める・投稿できるサイト。
+- [糖質ゼロドットコム](https://tousitsuzero.com)
+  - 低糖質食品データベースサイト。
 
-- kuluku（まだ未公開）
-- [怖話（怖い話のサイト）](http://kowabana.jp)
-- [oulu（sassライブラリ）](https://github.com/oulu)
-- [nolla（middleman blog theme）](https://github.com/machida/nolla)
-- [yksi（middleman blog theme）](https://github.com/machida/yksi)
-- [konferenssi（middleman blog theme for event）](https://github.com/machida/konferenssi)
+## 作ったもの
 
-## 作ったものとか
-
-- [GoodDaysList](http://good-days-list.heroku.com/)
-- [Next Holiday](http://holiday.fjord.jp/)
+- [Lokka](http://lokka.org)
+  - rubyのCMS。
+- [time_compact](https://github.com/komagata/time_compact)
+  - `8時16分`などのように現在時刻からなるべくコンパクトに時間を表示するライブラリ。
+- [sexy_li](https://github.com/komagata/sexy_li)
+  - railsでモデルの`li`リストを簡単に書くライブラリ。
+- [simple_seed](https://github.com/komagata/simple_seed)
+  - railsでseedデータをfixture形式のymlから読み込むライブラリ。
+- [availablizer](https://github.com/komagata/availablizer)
+  - 文字列を~able化するライブラリ。
+  - 例）`"comment".availablize  # => "commentable"`
+- [holiday_jp](https://github.com/komagata/holiday_jp)
+  - 日本の祝日を扱うライブラリ。
+- [eastasianwidth](https://github.com/komagata/eastasianwidth)
+  - 東アジアの文字の幅を判別するライブラリ。
