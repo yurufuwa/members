@@ -12,7 +12,6 @@ Ruby/Rails, Chrome Extension/App, Android あたりでいろいろ作ります�
 - https://twitter.com/fukayatsu
 - https://github.com/fukayatsu/about
 - 所属
-    - [Kaizen Platform, Inc.](https://kaizenplatform.com/)
     - [esa LLC](https://team.esa.io/)
 
 #### 主な開発環境
